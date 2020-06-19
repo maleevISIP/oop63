@@ -1,0 +1,7 @@
+C:\Users\vinchi\Desktop\кидаю\oop63\oop63\oop63\bin\Debug\oop63.exe.config
+C:\Users\vinchi\Desktop\кидаю\oop63\oop63\oop63\bin\Debug\oop63.exe
+C:\Users\vinchi\Desktop\кидаю\oop63\oop63\oop63\bin\Debug\oop63.pdb
+C:\Users\vinchi\Desktop\кидаю\oop63\oop63\oop63\obj\Debug\oop63.csprojAssemblyReference.cache
+C:\Users\vinchi\Desktop\кидаю\oop63\oop63\oop63\obj\Debug\oop63.csproj.CoreCompileInputs.cache
+C:\Users\vinchi\Desktop\кидаю\oop63\oop63\oop63\obj\Debug\oop63.exe
+C:\Users\vinchi\Desktop\кидаю\oop63\oop63\oop63\obj\Debug\oop63.pdb
